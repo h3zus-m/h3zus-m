@@ -1,9 +1,9 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/tideglass-harbor.webp">
-  <img src="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/tideglass-harbor-loop.webp" width="100%" alt="An engineer repairs a solar power converter above Tideglass Harbor. Greenhouses line a canal, a train curves past copper market towers, and an orbital port hangs above a distant basalt keep.">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/tideglass-harbor-v2.webp">
+  <img src="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/tideglass-harbor-v2-loop.webp" width="100%" alt="An engineer repairs a solar power converter above Tideglass Harbor. Water cascades through glass gardens, a train follows the copper market’s elevated railway, and a shuttle passes beneath an orbital terminal above a distant basalt keep.">
 </picture>
 
-<sub><i>Tideglass Harbor</i> · <a href="https://github.com/h3zus-m/h3zus-m/tree/main/assets#tideglass-harbor">Explore the six districts</a> · <a href="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/tideglass-harbor.webp">View the still illustration</a></sub>
+<sub><i>Tideglass Harbor</i> · <a href="https://github.com/h3zus-m/h3zus-m/tree/main/assets#tideglass-harbor">Explore the six districts</a> · <a href="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/tideglass-harbor-v2.webp">View the still illustration</a></sub>
 
 # Harsh Mistry
 
