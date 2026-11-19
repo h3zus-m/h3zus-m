@@ -38,13 +38,13 @@ I also built a **Python Model Context Protocol (MCP) Decision Workbench** with f
 
 ## Featured engineering systems
 
-| Project | Engineering work | Result |
-| :--- | :--- | :--- |
-| [Inside the Systems](https://h3zus-m.github.io/) | Spatial portfolio with interactive case studies on clean-energy hardware, distribution, statutory testing, welding, and supply chain analytics. | **10 chapters** with linked case studies |
-| [Generac Clean Energy · NPI sourcing](https://h3zus-m.github.io/#generac) · [3D microinverter demo](https://h3zus-m.github.io/D3p1oym3nt-W0rksp4c3/) | Used Arena PLM, Excel, and PowerShell to reconcile part numbers, BOMs, supplier quotes, cost targets, and annual demand. | **$1.2M identified annualized sourcing opportunity** across 20+ components |
-| [AI Supply Chain Decision Workbench](https://h3zus-m.github.io/#workbench) | Built a Python MCP server for KPI segmentation, evidence retrieval, opportunity sizing, and recommendation generation. | **4 governed tools** across **12 simulated plants** |
-| [Inventory Policy Optimization](https://h3zus-m.github.io/#inventory) | Used R forecasting and Excel Solver to compare fixed order quantity, lot-for-lot, and periodic order quantity policies at target fill rates. | **8-15% modeled reduction** in total inventory cost |
-| [Larsen & Toubro · Robotic seam monitoring](https://h3zus-m.github.io/#lt) | Integrated SolidWorks prototypes, electrical subsystems, and Python automation for robotic welding seam monitoring. | **20% improvement** in defect detection and process reliability. **10% projected cost reduction** in feasibility analysis. |
+| Project | Outcome and methods |
+| :--- | :--- |
+| [Inside the Systems](https://h3zus-m.github.io/) | **10 chapters** with interactive case studies on clean-energy hardware, distribution, statutory testing, welding, and supply chain analytics. |
+| [Generac Clean Energy · NPI sourcing](https://h3zus-m.github.io/#generac) · [3D microinverter demo](https://h3zus-m.github.io/D3p1oym3nt-W0rksp4c3/) | **$1.2M annualized sourcing opportunity identified.** Used Arena PLM, Excel, and PowerShell to reconcile part numbers, BOMs, supplier quotes, cost targets, and annual demand across 20+ components. |
+| [AI Supply Chain Decision Workbench](https://h3zus-m.github.io/#workbench) | **4 governed tools across 12 simulated plants.** Built a Python MCP server for KPI segmentation, evidence retrieval, opportunity sizing, and recommendation generation. |
+| [Inventory Policy Optimization](https://h3zus-m.github.io/#inventory) | **8-15% modeled reduction in total inventory cost.** Used R forecasting and Excel Solver to compare fixed order quantity, lot-for-lot, and periodic order quantity policies at target fill rates. |
+| [Larsen & Toubro · Robotic seam monitoring](https://h3zus-m.github.io/#lt) | **20% improvement in defect detection and process reliability.** Integrated SolidWorks prototypes, electrical subsystems, and Python automation. Feasibility analysis showed a **10% projected cost reduction**. |
 
 **More operations work:** [USC Bookstore distribution](https://h3zus-m.github.io/#usc) reached **>98% inventory accuracy across 1,000+ SKUs**. [Banco Products](https://h3zus-m.github.io/#banco) reduced **welding-related costs by 12%** through Kaizen and 5S. [Vindeep Expo Engineers](https://h3zus-m.github.io/#vindeep) coordinated multi-site statutory testing for pressure vessels and lifting equipment.
 
