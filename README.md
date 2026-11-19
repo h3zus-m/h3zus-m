@@ -1,7 +1,9 @@
 <div align="center">
   <picture>
-    <source media="(prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/future-worlds-loop.webp">
-    <img src="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/future-worlds-static.webp" width="100%" alt="A systems engineer tests an open microinverter at dawn above solar glasshouses, cascading water, an elevated maglev, a robotic fabrication quay, and an orbital logistics terminal.">
+    <source media="(max-width: 544px) and (prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/future-worlds-mobile-loop.webp">
+    <source media="(max-width: 544px)" srcset="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/future-worlds-mobile-static.webp">
+    <source media="(prefers-reduced-motion: no-preference)" srcset="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/future-worlds-loop.webp?v=bench-motion">
+    <img src="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/future-worlds-static.webp" width="100%" alt="A systems engineer repositions a test probe on an open microinverter and checks the diagnostics display. Beyond the workbench are solar glasshouses, a canal, an elevated maglev, a fabrication quay, and an orbital logistics terminal at dawn.">
   </picture>
   <br>
   <sub><a href="https://raw.githubusercontent.com/h3zus-m/h3zus-m/main/assets/future-worlds-static.webp">View still artwork</a></sub>
